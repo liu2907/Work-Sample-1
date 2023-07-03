@@ -1,0 +1,2271 @@
+[
+  {
+    "_component": "panels",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Their Stories",
+    "displayTitle": "Their Stories",
+    "body": "<p>Before we jump into the course in detail, let's take a look at some scenarios.</p>",
+    "_id": "5f870b232cf86403009da362",
+    "_parentId": "5f870af82cf86403009da361",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each tab to learn more.",
+    "_items": [
+      {
+        "title": "Rebecca",
+        "body": "<p>Rebecca works as a Child Welfare Supervisor at DHS. She has been asked to join a hiring panel the next day to interview candidates for a Child Welfare Specialist Level I position. She was also asked to develop a set of interview questions and prepare to ask them during the interview. As a new supervisor, Rebecca feels overwhelmed because she does not know what to ask. In desperation, Rebecca searches online and picks a list of commonly asked interview questions.</p>",
+        "_graphic": {
+          "alt": "Young businesswoman looking at laptop",
+          "src": "course/en/assets/25e3387f9c068fb778533ef8339f6bde98eef8cc.jpg"
+        }
+      },
+      {
+        "title": "Samuel",
+        "body": "<p>Samuel also serves as a Child Welfare Supervisor at DHS and is on an interview panel. Unlike Rebecca, he was given a list of questions that are typically used in the office, and has been instructed to ask them during the interview.</p><p>However, during the interview, Samuel struggles with some of the questions. He has found that questions like, “What is your greatest weakness?” prevent him from getting sincere answers from most interviewees. Samuel also feels there are too many irrelevant questions in the list, which in his opinion, do not help identify a candidate's&nbsp;critical competencies. This may increase the likelihood of a bad hire.</p>",
+        "_graphic": {
+          "alt": "Distressed businessman reading in paperwork",
+          "src": "course/en/assets/56eff89710e393e33736c68a482986571329500a.jpg"
+        }
+      },
+      {
+        "title": "Zoey",
+        "body": "<p>Zoey was on the interview panel when Jeromy applied for the Child Welfare Specialist I/II position at her office. Unfortunately, he failed at the interview; the hiring committee agreed that he was not suitable for this job because of some inappropriate behaviors. A few months later, Zoey was surprised to hear that Jeromy had been hired as a Child Welfare Specialist by another county office. She is confused about why they hired him because the mistakes he made during the interview were significant enough to rule him out.</p>",
+        "_graphic": {
+          "alt": "Shocked businesswoman sitting at workplace desk ",
+          "src": "course/en/assets/e2cab0bedd4c40fb2868d74137baa970f6f7f90e.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "_component": "thinking-question",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question",
+    "displayTitle": "Question",
+    "body": "",
+    "_id": "5f8f330a2cf86403009da8e4",
+    "_parentId": "5f8f32752cf86403009da8e2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "You must type at least 25 characters in the text box to submit your answer.",
+    "animation": "fade",
+    "header": "course/en/assets/4031869d18623f1d8cd9f87268e6c0224caa2922.jpg",
+    "headerAlt": "Woman with arrows on the side of her head pointing left and right and a question mark in the middle",
+    "questionTitle": "Question",
+    "question": "<p>Have you ever been in the same situation as Rebecca, Samuel, or Zoey in the above scenarios? If yes, what did you do and how were you feeling at the moment? If not, put yourself in their place. What would you do and how would you feel in their situation?</p>",
+    "feedbackTitle": "Feedback",
+    "feedback": "<p>Whether or not you've experienced the same situation as Rebecca, Samuel, or Zoey, these are common struggles of Child Welfare Supervisors and District Directors at OKDHS when hiring new employees. Having to come up with your own interview questions is a daunting task for most, and using ill-fitting questions is just as much of a problem for finding qualified staff, as the examples illustrated. Furthermore, if there were to be inconsistent practices in hiring, it could potentially lead to different standards and hiring outcomes for the same job.</p><p>To address these issues, Oklahoma Child Welfare worked with the Quality Improvement Center for Workforce Development (QIC-WD) to develop a new competency-based, standardized hiring process for Child Welfare Specialists. Let’s take a look at how this process was developed and what impact it has had.</p>",
+    "minResponse": 25,
+    "buttonText": "Submit",
+    "showFeedback": "Show Feedback",
+    "showQuestion": "Show Question"
+  },
+  {
+    "_component": "thinking-question",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question",
+    "displayTitle": "Question",
+    "body": "",
+    "_id": "5f8f52302cf86403009da923",
+    "_parentId": "5f8f52152cf86403009da922",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "You must type at least 25 characters in the test box to submit your answer.",
+    "animation": "fade",
+    "header": "course/en/assets/203f3c35831f72f06a2305bb33dacc6867e91605.jpg",
+    "headerAlt": "Interview Preparation written on rug background",
+    "questionTitle": "Question",
+    "question": "<p>What do you think of Sara’s interview preparation strategy? Should she have prepared for commonly asked interview questions beforehand or not?</p>",
+    "feedbackTitle": "Feedback",
+    "feedback": "<p>There is nothing wrong with Sara’s preparation work for the interview. In fact, rehearsing anticipated questions beforehand is one of the most common ways to prepare for a job interview. However, this strategy won’t work in the new standardized hiring process we are introducing at OKDHS. Candidates who come to the interview with canned answers will find that their preparation—without reflection on essential job competencies— has limited value. The new process evaluates individuals based on their real competencies, rather than well-rehearsed responses to common, generic questions.</p>",
+    "minResponse": 25,
+    "buttonText": "Submit",
+    "showFeedback": "Show Feedback",
+    "showQuestion": "Show Question"
+  },
+  {
+    "_component": "reveal",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Testimonials",
+    "displayTitle": "Testimonials",
+    "body": "<p>When some of your peers first implemented this new standardized hiring process, here’s what they thought.</p>",
+    "_id": "5f8f53602cf86403009da928",
+    "_parentId": "5f8f53272cf86403009da927",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each box to learn more.",
+    "_columns": "2",
+    "_items": [
+      {
+        "cover": "Participant 1",
+        "title": "Participant 1",
+        "body": "<p>“It's more of a streamlined process where it's fairer across the board, because we're doing it all the same way and we're scoring it the same way.”</p>",
+        "_animation": "fadeOutDown",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "_above": false
+        }
+      },
+      {
+        "cover": "Participant 2",
+        "title": "Participant 2",
+        "body": "<p>“I thought it was really helpful. It was different for us to have the applicants take time in advance to review the questions. So I think that helped with them in preparation for it. It allowed them to give more thoughtful answers, which was another advantage as far as what’s different.”</p>",
+        "_animation": "fadeOutDown",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "_above": false
+        }
+      },
+      {
+        "cover": "Participant 3",
+        "title": "Participant 3",
+        "body": "<p>“The new process ensures deliberate discussion and processing of ratings, instead of the rapid-fire decision making, with no discussion and processing.”</p><p>&nbsp;</p>",
+        "_animation": "fadeOutDown",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "_above": false
+        }
+      },
+      {
+        "cover": "Participant 4",
+        "title": "Participant 4",
+        "body": "<p>“The previous process left too much room for irrational biases. I think that the new process was beneficial, especially for us, to remove our biases.”</p><p>&nbsp;</p>",
+        "_animation": "fadeOutDown",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "_above": false
+        }
+      }
+    ]
+  },
+  {
+    "_component": "stacks",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Standardized Hiring Process Steps",
+    "displayTitle": "Standardized Hiring Process Steps",
+    "body": "<p>Broadly speaking, there are four key steps that need to be followed when hiring for CWS I and II positions. The process can be conducted in person or virtually, via Teams. It can be done all in one day or split into two days.</p>",
+    "_id": "5f8f550a2cf86403009da92a",
+    "_parentId": "5f8f54e62cf86403009da929",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "",
+    "startLabel": "Click here to see the 4 hiring steps!",
+    "_buttonExitAnimation": "fadeOut",
+    "_items": [
+      {
+        "body": "<p>Step 1: Recruitment and Screening</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p>Step 2: Writing Assessment</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p>Step 3: Structured Interview</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      },
+      {
+        "body": "<p>Step 4: Hiring Decision</p>",
+        "_animation": "fadeInLeft",
+        "_nextLabel": "Next"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Transitional Message",
+    "displayTitle": "",
+    "body": "<p>Let’s take a closer look at each of these steps.</p><p>Be aware that this training doesn’t discuss the actual interview questions. They will be discussed in more detail in the instructor-led course you will complete before serving on a hiring panel.</p><p>Also, this module will not cover every single detail about the new hiring process. A <strong>Standardized Hiring Process Guide</strong> is available in the<strong> Resources</strong> area on the main course menu. We strongly suggest you read the document after completing this training&nbsp;and as you prepare for an interview.&nbsp;</p>",
+    "_id": "5f8f57342cf86403009da92d",
+    "_parentId": "5f8f56f52cf86403009da92c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 1",
+    "displayTitle": "Question 1",
+    "body": "<p>Some of you may wonder if it is possible to condense the time we spend on each interview candidate while still making good hiring decisions. But a good hiring decision cannot be made without considerable time and effort. We need to take the time to assess more than a few competencies.</p><p>Recall what you’ve learned, on average, how long does it take each <strong>candidate</strong> to complete the whole interview process?</p>",
+    "_id": "5f90ac002cf86403009da96f",
+    "_parentId": "5f90abdc2cf86403009da96e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Choose the best answer, then click Submit.",
+    "_items": [
+      {
+        "text": "1 hour",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "1 hour and 30 minutes",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "1 hour and 45 minutes",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "2 hours",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p>Correct!</p><p>On average, it will take each interview candidate approximately 1 hour and 30 minutes to complete the whole process. Within this time frame, 40 minutes will be spent on completing the writing assessment and the interview preparation. The remaining 50 minutes are scheduled for the hiring panel to conduct the interview.</p><p>If the process is split into two days, the first meeting will only involve completing the writing assessment. Candidate review of the interview questions will occur in the second meeting, just prior to the interview. &nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>You may want to reconsider your answer.</p><p>On average, it will take each interview candidate approximately 1 hour and 30 minutes to complete the whole process. Within this time frame, 40 minutes will be spent on completing the writing assessment and the interview preparation. The remaining 50 minutes are scheduled for the hiring panel to conduct the interview.</p><p>If the process is split into two days, the first meeting will only involve completing the writing assessment. Candidate review of the interview questions will occur in the second meeting, just prior to the interview. &nbsp; &nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f90acb12cf86403009da970",
+    "_parentId": "5f90abdc2cf86403009da96e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Clock on green wall background",
+      "large": "course/en/assets/bbdab28584942a2b236670e9675b2d482cdb6404.jpg",
+      "small": "course/en/assets/bbdab28584942a2b236670e9675b2d482cdb6404.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "thinking-question",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Discussing Ratings",
+    "displayTitle": "Discussing Ratings",
+    "body": "<p>Alan and Diana both serve on an interview panel for a Child Welfare Specialist I/II position. After the interviewee, Victoria, left, they independently rated her writing assessment and answers to each interview question based on their notes and the rubric. However, during the discussion, they realized that they have different opinions on how to rate Victoria’s flexibility and adaptability. Alan thought Victoria exhibited moderate skill in her answers and scored her at 3 because she demonstrated making a willingness to change. Meanwhile, Diana rated her at 0&nbsp;because she believed she didn’t get enough information about this competency to even make a judgment. She didn’t feel she had any sense of how Victoria responded to changes in expectations.</p>",
+    "_id": "5f90aec22cf86403009da97a",
+    "_parentId": "5f90ae742cf86403009da979",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "You must type at least 25 characters in the text box to submit your answer.",
+    "animation": "fade",
+    "header": "course/en/assets/ae5c80ca809c302dbd0080acf4a55e72689184ce.jpg",
+    "headerAlt": "Interviewers talking over a form during job interview",
+    "questionTitle": "Question",
+    "question": "<p>How should Alan and Diana deal with their divergent opinions?</p>",
+    "feedbackTitle": "Feedback",
+    "feedback": "<p>It is alright if Alan and Diana disagree. Individual ratings should be discussed in a group as each hiring panel member completes the rating. Consensus is not required, but it is desirable to achieve a shared understanding of perspectives. The panel member should explain to the group how they arrived at their conclusion. Raters may change their ratings in light of the discussion, but it is not required.</p>",
+    "minResponse": 25,
+    "buttonText": "Submit",
+    "showFeedback": "Show Feedback",
+    "showQuestion": "Show Question"
+  },
+  {
+    "_component": "thinking-question",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Hiring Decisions",
+    "displayTitle": "Hiring Decisions",
+    "body": "<p>Kathleen participated in a virtual interview as a candidate for a Child Welfare Specialist I/II position at Eric's office. After interviewing six candidates, the hiring panel calculated the total score across all competencies for each candidate. Kathleen has the highest total score among all. However, as the hiring lead, Eric noticed that Kathleen scored the lowest in the writing assessment, which made him wonder if she would be the best choice.</p>",
+    "_id": "5f90afb22cf86403009da97c",
+    "_parentId": "5f90af9b2cf86403009da97b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "You must type at least 25 characters in the text box to submit your answer.",
+    "animation": "fade",
+    "header": "course/en/assets/3ab518877fc92a3061b66f69233aa3c9d1d7227b.jpg",
+    "headerAlt": "Three interviewers making a discussion",
+    "questionTitle": "Question",
+    "question": "<p>Should Eric hire Kathleen because she has the highest total score? Why?</p>",
+    "feedbackTitle": "Feedback",
+    "feedback": "<p>Probably not.</p><p>Hiring panels and selecting officials are encouraged to use the total score to guide their decisions. Generally speaking, higher total scores represent higher candidate potential, and candidates that get a score of 56 or higher have significantly higher performance.</p><p>However, there may be some concerning responses (e.g., red flag interview answers) or results (e.g., an average rating of 1 for writing quality) that are disguised by the total score, due to high ratings on other competencies. In those cases, the total score may not reflect important nuances that should be considered. This means that, although candidates can and should be broadly compared on total scores, it is important to not overlook finer distinctions that may affect the candidate’s performance potential.</p><p>In addition to this, the candidate’s ability to meet core job requirements (e.g., related to work travel, being on call, attending training, possessing a valid driver’s license, or passing a criminal background check or pre-employment drug screening) should be factored in to hiring decisions.</p>",
+    "minResponse": 25,
+    "buttonText": "Submit",
+    "showFeedback": "Show Feedback",
+    "showQuestion": "Show Question"
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Conclusion",
+    "displayTitle": "Conclusion",
+    "body": "<p>In this module, you became familiar with the new standardized hiring process and learned the steps to hire&nbsp;Child Welfare Specialist I and II positions.</p><p>In the next module, you will learn about the most common rating errors and biases, as well as strategies for overcoming them.</p><p>&nbsp;</p>",
+    "_id": "5f90b2642cf86403009da986",
+    "_parentId": "5f90b23b2cf86403009da985",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f90b2cc2cf86403009da987",
+    "_parentId": "5f90b23b2cf86403009da985",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Sticky notes pinned on board with the words lessons learned written on",
+      "large": "course/en/assets/63c32b2ab350ca2525548940f5317eb5f43d4e30.jpg",
+      "small": "course/en/assets/63c32b2ab350ca2525548940f5317eb5f43d4e30.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "gotomenu",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Go To Menu",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f90b4092cf86403009da98c",
+    "_parentId": "5f90b3c42cf86403009da98b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Return to Course Menu",
+    "menuID": ""
+  },
+  {
+    "_component": "gotopage",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Go to Page",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f90b46b2cf86403009da98d",
+    "_parentId": "5f90b3c42cf86403009da98b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Continue to Module 3",
+    "pageID": "",
+    "dialogTitle": "Page Incomplete",
+    "dialogBody": "<p>There are items on this page that must be completed before you can continue.</p>",
+    "incompleteButton": "Go To Incomplete",
+    "viewAllButton": "View All"
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Leniency and Severity Errors",
+    "displayTitle": "Leniency and Severity Errors",
+    "body": "",
+    "_id": "5f971fea2cf86403009da998",
+    "_parentId": "5f971fca2cf86403009da997",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click Show Back to learn more.",
+    "animation": "flip",
+    "front": {
+      "title": "Laura",
+      "src": "course/en/assets/9737d99e99046a08c247012487d0314d9512ea33.jpg",
+      "alt": "A professional business woman",
+      "body": "<p>As an interview panel member, Laura gives low ratings for every candidate she interviews. She understands she has high standards, but the job is important, and she can’t risk a poor hire.&nbsp; Even though it’s possible that only a few people will live up to her standards, she believes a strict scoring system can pick the best candidate.</p><p>Do you agree with Laura?</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Leniency and Severity Errors",
+      "src": "",
+      "alt": "",
+      "body": "<p>Laura’s opinion is a great example of the severity error. This is a situation when a rater tends to rate all candidates too low on all dimensions of the scale. When you look over your ratings, are you a “hard grader” who finds it difficult to give anyone a rating other than “unacceptable”? You may be overly severe in your ratings.</p><p>Conversely, leniency error is when a rater tends to rate all candidates too high over all dimensions of the scale. When you look over your ratings, is everyone rated as “acceptable” in every category? If so, you’ve probably been too lenient. The goal is to make a distinction between candidates — which is impossible if all receive the same high or low scores.</p><p>To correct this error, review your notes and ratings and try to bring the overused and underused rating categories into a justifiable balance.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Central Tendency Error",
+    "displayTitle": "Central Tendency Error",
+    "body": "",
+    "_id": "5f9725862cf86403009da99b",
+    "_parentId": "5f971fca2cf86403009da997",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click Show Back to learn more.",
+    "animation": "flip",
+    "front": {
+      "title": "Jeff",
+      "src": "course/en/assets/bc77e53ac1e41906aba799f2625258af41d7d195.jpg",
+      "alt": "Hiring panel interviewing a candidate",
+      "body": "<p>Jeff is invited by his colleague Nancy to be on the interview panel for her team’s hiring. During the interview, Jeff tends to play it safe by scoring every candidate around the midpoint of the scale because he has less expertise than other panel members.</p><p>Do you agree with Jeff’s approach?</p><p>&nbsp;</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Central Tendency Error",
+      "src": "",
+      "alt": "",
+      "body": "<p>Jeff’s thought process is a great example of the central tendency error. It refers to an interviewer’s unwillingness to assign the extreme high or low rating categories. Everyone is seen as average, and only the middle part of the rating scale is used. This may happen when interviewers are asked to evaluate unfamiliar dimensions in an interview. Rather than risk giving someone an extremely high or low rating, the interviewer plays it safe and provides an average rating. Again, the goal is to make a distinction between candidates.</p><p>To avoid this error, take time to understand the meaning of each rating dimension, monitor your ratings over the course of the day, and don’t be afraid to give a candidate a high or low rating if justified.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Halo Effect",
+    "displayTitle": "Halo Effect",
+    "body": "",
+    "_id": "5f97267d2cf86403009da99f",
+    "_parentId": "5f97266c2cf86403009da99e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click Show Back to learn more.",
+    "animation": "flip",
+    "front": {
+      "title": "Mary",
+      "src": "course/en/assets/7fd7d8df6b4cf27e9c52a47fc7d5bdbcfd4e945b.jpg",
+      "alt": "Portrait of a professional business woman",
+      "body": "<p>Two candidates arrive for an interview for a Child Welfare Specialist position. Renee holds a degree in social work from a prestigious university while Carrie holds a degree from a lesser-known community college. Throughout the interview, Mary rates Renee highly, based on her belief that Renee’s education has likely helped her develop the competencies that are needed for the job.</p><p>Do you agree with Mary?</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Halo Effect",
+      "src": "",
+      "alt": "",
+      "body": "<p>Mary’s opinion is a great example of the halo effect. Halo effect is when a rater’s overall positive or negative impression of a candidate leads to rating him or her the same across all rating dimensions. Typically, the interviewer has strong feelings about at least one aspect of the candidate or the candidate’s interview, and uniformly generalizes this to all other rating categories.</p><p>To avoid this error, try to be aware of your attitudes that may influence your ratings. Focus your ratings on the candidate’s actual behaviors and competencies.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "First Impression Error",
+    "displayTitle": "First Impression Error",
+    "body": "",
+    "_id": "5f9727152cf86403009da9a2",
+    "_parentId": "5f97266c2cf86403009da99e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click Show Back to learn more.",
+    "animation": "flip",
+    "front": {
+      "title": "Jason",
+      "src": "course/en/assets/e8526bd3013f53ef65bae069f90a9093c647b27b.jpg",
+      "alt": "Female candidate greeting male recruiter",
+      "body": "<p>Jason is interviewing a candidate who is very nervous and stutters during the first few minutes of the interview. Jason thinks this candidate might be less qualified for the position since she shows a low level of confidence.</p><p>Do you agree with Jason?</p><p>&nbsp;</p><p>&nbsp;</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "First Impression Error",
+      "src": "",
+      "alt": "",
+      "body": "<p>Jason’s opinion is a great example of the first impression error. This is when an interviewer makes an evaluation of the candidate within the first minutes of the interview.</p><p>To avoid this error, be open to changing your mind about the candidate as the interview progresses and stay focused on what they say throughout the interview.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 1",
+    "displayTitle": "Question 1",
+    "body": "<p>Let’s see how well you understand the concepts that you just learned.</p>",
+    "_id": "5f972ba62cf86403009da9a7",
+    "_parentId": "5f972b6b2cf86403009da9a6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Use the drop-down menu to select the best response for each statement, then click Submit.",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "What is it called when an interviewer evaluates a candidate based on a single characteristic?",
+        "_options": [
+          {
+            "text": "Central Tendency Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "First Impression Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "Halo Effect",
+            "_isCorrect": true
+          },
+          {
+            "text": "Leniency Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "Severity Error",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "What is it called when an interviewer tends to go easy on candidates and rates them higher than they might be in reality? ",
+        "_options": [
+          {
+            "text": "Central Tendency Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "First Impression Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "Halo Effect",
+            "_isCorrect": false
+          },
+          {
+            "text": "Leniency Error",
+            "_isCorrect": true
+          },
+          {
+            "text": "Severity Error",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "What is it called when a candidate is judged based on what happens during the first few minutes of the interview?",
+        "_options": [
+          {
+            "text": "Central Tendency Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "First Impression Error",
+            "_isCorrect": true
+          },
+          {
+            "text": "Halo Effect",
+            "_isCorrect": false
+          },
+          {
+            "text": "Leniency Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "Severity Error",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "What is it called when an interviewer tends to score every candidate around the midpoint of the rating scale and not use the extremes?",
+        "_options": [
+          {
+            "text": "Central Tendency Error",
+            "_isCorrect": true
+          },
+          {
+            "text": "First Impression Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "Halo Effect",
+            "_isCorrect": false
+          },
+          {
+            "text": "Leniency Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "Severity Error",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "What is it called when an interviewer tends to go hard on candidates and rates them lower than they might be in reality?",
+        "_options": [
+          {
+            "text": "Central Tendency Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "First Impression Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "Halo Effect",
+            "_isCorrect": false
+          },
+          {
+            "text": "Leniency Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "Severity Error",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p>Awesome! You nailed it.</p>",
+      "_incorrect": {
+        "final": "<p>You may want to reconsider your answer(s).</p><ul><li><strong>Leniency error</strong> occurs when an interviewer tends to go easy on candidates and rates them higher than they might be in reality.</li><li><strong>Severity error occurs </strong>when an interviewer tends to go hard on candidates and rates them lower than they might be in reality.</li><li><strong>Central tendency</strong> <strong>error</strong> occurs when an interviewer tends to score every candidate around the midpoint of the rating scale and not use the extremes.</li><li><strong>Halo effect</strong> occurs when an interviewer evaluates a candidate based on a single characteristic.</li><li><strong>First impression error</strong> occurs when a candidate is judged based on what happens during the first few minutes of the interview.</li></ul>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Recency Error",
+    "displayTitle": "Recency Error",
+    "body": "",
+    "_id": "5f973c132cf86403009da9aa",
+    "_parentId": "5f972f0f2cf86403009da9a9",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click Show Back to learn more.",
+    "animation": "flip",
+    "front": {
+      "title": "Christian",
+      "src": "course/en/assets/93b3be574c018fc8b3d7264c6ebc972447172a64.jpg",
+      "alt": "Businessman listening interview candidate ",
+      "body": "<p>Christian was on Malinda’s hiring panel. Malinda gave a strong interview with some excellent examples of her problem-solving process. However, the last question in the interview caught her off guard, and she struggled to answer. As a result, Christian questioned his previous judgments and decided to reconsider his overall impression of her.</p><p>Do you agree with Christian?</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Recency Error",
+      "src": "",
+      "alt": "",
+      "body": "<p>Christian’s thought process is a great example of the recency error. It refers to focusing on what happened most recently and allowing these recent recollections to unduly influence one’s judgments, rather than taking into account responses made over the entire interview.</p><p>When making final judgments, recall what you saw and heard throughout the interview, rather than just at the end.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Contrast Effect",
+    "displayTitle": "Contrast Effect",
+    "body": "",
+    "_id": "5f973fad2cf86403009da9ad",
+    "_parentId": "5f972f0f2cf86403009da9a9",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click Show Back to learn more.",
+    "animation": "flip",
+    "front": {
+      "title": "Lisa",
+      "src": "course/en/assets/2baf61347df8a0607cf358ecf516c7ae7e6647dc.jpg",
+      "alt": "Hands of cropped woman grading papers",
+      "body": "<p>Lisa is grading a candidate’s writing sample. She gives it a very high rating compared to the other writing samples because it looks good&nbsp;and has fewer grammatical mistakes than the preceding one, even though it may have its own shortcomings.</p><p>Do you think Lisa is right to do this?</p><p>&nbsp;</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Feedback",
+      "src": "",
+      "alt": "",
+      "body": "<p>Lisa’s thought process is a great example of the contrast effect. It happens when an interviewer allows the quality of the candidates who preceded the present candidate to influence the present candidate’s ratings. Candidates with average credentials appear better to the interviewer if they follow someone with weak credentials; they appear worse if they follow someone with superior credentials.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Similar-to-Me Error",
+    "displayTitle": "Similar-to-Me Error",
+    "body": "",
+    "_id": "5f9742ed2cf86403009da9b1",
+    "_parentId": "5f9742d62cf86403009da9b0",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click Show Back to learn more.",
+    "animation": "flip",
+    "front": {
+      "title": "Mike",
+      "src": "course/en/assets/3f431c8776c7c0b74e429c963ef26b6e39aae68d.jpg",
+      "alt": "Business people shaking hands",
+      "body": "<p>Mike meets an interviewee who makes a great impression on him when he finds out both of them grew up in Florida and are big fans of the Miami Heat.</p><p>What do you think of Mike’s opinion?</p><p>&nbsp;</p><p>&nbsp;</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Similar-to-Me Error",
+      "src": "",
+      "alt": "",
+      "body": "<p>Mike’s opinion is a great example of the similar-to-me error. It is when an interviewer favorably evaluates a candidate just because he or she is similar to the interviewer somehow. The problem is that the interviewer isn’t truly assessing the individual based upon their competencies and responses to the questions.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "card",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Stereotyping",
+    "displayTitle": "Stereotyping",
+    "body": "",
+    "_id": "5f9743c32cf86403009da9b4",
+    "_parentId": "5f9742d62cf86403009da9b0",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Click Show Back to learn more.",
+    "animation": "flip",
+    "front": {
+      "title": "Caleb",
+      "src": "course/en/assets/5751a8ade9a6d23046d84fd6d827ccc7657bb9ed.jpg",
+      "alt": "Hiring panel greeting a female candidate",
+      "body": "<p>Caleb's team is hiring for a position that requires working long hours and some evenings. Caleb gave a high score for Melissa's interview performance. However, he thinks Melissa may not remain in the position long because she is a part of the Gen Z&nbsp;generation and has a thriving social life at her age.</p><p>Do you agree with Caleb?</p>",
+      "button": "Show Back"
+    },
+    "back": {
+      "title": "Stereotyping",
+      "src": "",
+      "alt": "",
+      "body": "<p>Caleb’s opinion is a great example of stereotyping. Because the candidate is perceived as belonging to a particular group, the interviewer assumes that the individual possesses all the stereotypic traits associated with that group, and allows these assumptions to affect their ratings. For example, some common stereotypes in hiring decisions are women with children will miss a lot of work. A veteran won’t be able to adjust to working in an office. A male candidate will make a better leader than a female candidate.</p>",
+      "button": "Show Front"
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 2",
+    "displayTitle": "Question 2",
+    "body": "<p>Let’s see how well you understand the concepts that you just learned.</p>",
+    "_id": "5f97457d2cf86403009da9b9",
+    "_parentId": "5f9745492cf86403009da9b8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Use the drop-down menu to select the best response for each statement, then click Submit.",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "What is it called when an interviewer evaluates candidates based on personal characteristics that they share with the interviewer rather than job-related criteria?",
+        "_options": [
+          {
+            "text": "Contrast Effect",
+            "_isCorrect": false
+          },
+          {
+            "text": "Recency Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "Similar-to-me Error",
+            "_isCorrect": true
+          },
+          {
+            "text": "Stereotyping",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "What is it called when an interviewer is overly affected by the information presented more recently rather than earlier in any given selection process?",
+        "_options": [
+          {
+            "text": "Contrast Effect",
+            "_isCorrect": false
+          },
+          {
+            "text": "Recency Error",
+            "_isCorrect": true
+          },
+          {
+            "text": "Similar-to-me Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "Stereotyping",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "What is it called when an interviewer assumes a candidate has specific traits because they are a member of a particular group?",
+        "_options": [
+          {
+            "text": "Contrast Effect",
+            "_isCorrect": false
+          },
+          {
+            "text": "Recency Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "Similar-to-me Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "Stereotyping",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "What is it called when an interviewer judges a candidate based on the quality of the preceding candidate?",
+        "_options": [
+          {
+            "text": "Contrast Effect",
+            "_isCorrect": true
+          },
+          {
+            "text": "Recency Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "Similar-to-me Error",
+            "_isCorrect": false
+          },
+          {
+            "text": "Stereotyping",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p>Awesome! You nailed it.</p>",
+      "_incorrect": {
+        "final": "<p>You may want to reconsider your answer.</p><ul><li><strong>Similar-to-me error</strong> occurs when an interviewer picks candidates based on personal characteristics that they share with the interviewer rather than job-related criteria.</li><li><strong>Recency error</strong> occurs when an interviewer is overly affected by the information presented more recently rather than earlier in any given selection process.</li><li><strong>Stereotyping</strong> occurs when an interviewer assumes a candidate has specific traits because they are a member of a particular group.</li><li><strong>Contrast effect</strong> occurs when an interviewer judges a candidate based on the quality of the preceding candidate.</li></ul>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "thinking-question",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Overcoming Rating Bias—Question 1",
+    "displayTitle": "Overcoming Rating Bias—Question 1",
+    "body": "<p>As a hiring panel member, you have interviewed eight candidates to fill the Child Welfare Specialist Level I/II position. After interviewing Ronald, your hiring panel debated how they rated his competency in building and maintaining harmonious interpersonal relationships with others. Jordan scored him exactly the same way he scored everyone else—3. Sara gave Ronald a low score on this competency because Ronald was so shy at the beginning of the interview. Donnell argued just as strongly that he was as nervous as Ronald when he first interviewed for this position, and look how well that turned out.</p>",
+    "_id": "5f9748892cf86403009da9bc",
+    "_parentId": "5f9748462cf86403009da9bb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Type your answer with at least 25 characters and click Submit.",
+    "animation": "fade",
+    "header": "course/en/assets/f252955704b0c35470936422e69d90ff4ead9239.jpg",
+    "headerAlt": "Various miniature people standing behind the glasses",
+    "questionTitle": "Question",
+    "question": "<p>What fallacies do you recognize in the hiring panel’s ratings?</p>",
+    "feedbackTitle": "Feedback",
+    "feedback": "<p>All panel members are exhibiting a type of rating bias. Jordan’s decision to not make a distinction between candidates is an example of the central tendency error. Sara has fallen into the first impression error, and Donnell is guilty of the similar-to-me error.</p>",
+    "minResponse": 25,
+    "buttonText": "Submit",
+    "showFeedback": "Show Feedback",
+    "showQuestion": "Show Question"
+  },
+  {
+    "_component": "thinking-question",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Overcoming Rating Bias—Question 2",
+    "displayTitle": "Overcoming Rating Bias—Question 2",
+    "body": "",
+    "_id": "5f97496d2cf86403009da9be",
+    "_parentId": "5f9749452cf86403009da9bd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Type your answer with at least 25 characters and click Submit.",
+    "animation": "fade",
+    "header": "course/en/assets/f17582d3977d1666be9c06894d0727e082699064.jpg",
+    "headerAlt": "The word suggestion written on blackboard",
+    "questionTitle": "Question",
+    "question": "<p>What suggestions do you have for Jordan, Sara, and Donnell to prevent rating errors and biases like these?</p>",
+    "feedbackTitle": "Feedback",
+    "feedback": "<p>Awareness and frequent self-monitoring are the best bets to try to avoid these common biases. Here is some additional advice people may find helpful:</p><ul><li>Be mindful of the biases and monitor personal ratings</li><li>Stick to structured questions and benchmarks</li><li>Take time to fully understand the definitions of the competencies and the rating anchors</li><li>Take&nbsp;thorough notes throughout the interview and base your ratings on them</li><li>Compare perspectives with other raters at the end of each candidate’s interview</li></ul>",
+    "minResponse": 25,
+    "buttonText": "Submit",
+    "showFeedback": "Show Feedback",
+    "showQuestion": "Show Question"
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Congratulations!",
+    "displayTitle": "Congratulations!",
+    "body": "<p>Congratulations! You have completed the online learning part of this Standardized Hiring Process course. We hope you feel well prepared for the in-class training now.</p><p>Close the current webpage (not the entire browser window), and you will be automatically redirected to the main course menu in the DHS Learning Management System.</p>",
+    "_id": "5f974d312cf86403009da9c5",
+    "_parentId": "5f974a632cf86403009da9c3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "A thank you note",
+      "large": "course/en/assets/e6ff5164b8c07d8b474277bdce902dda133bb392.jpg",
+      "small": "course/en/assets/e6ff5164b8c07d8b474277bdce902dda133bb392.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Before the Interview",
+    "displayTitle": "Before the Interview",
+    "body": "<p>The recruitment and screening process will remain the same. Once a candidate has been selected for the next steps of the hiring process, the Administrative Assistant schedules a meeting with the candidate and the hiring panel. It is estimated that it will take 1 hour and 30 minutes for a candidate to complete the process.</p><p>The Administrative Assistant joins the first part of the meeting with the candidate to explain the overall process, administer the writing assessment, and give the candidate 15 minutes to review the interview questions.</p><p>If the process is split into two days, the first meeting will only involve the completion of the writing assessment. Candidate review of the interview questions will occur in the second meeting, just prior to the interview.</p>",
+    "_id": "5f9b2b002cf86403009daa0f",
+    "_parentId": "5f8f58692cf86403009da92f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f9b2f1d2cf86403009daa10",
+    "_parentId": "5f8f58692cf86403009da92f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "young professional woman working",
+      "large": "course/en/assets/6cc071046d988b363a552a46e21dcdfdb5c1135e.jpg",
+      "small": "course/en/assets/6cc071046d988b363a552a46e21dcdfdb5c1135e.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Conducting the Structured Interview",
+    "displayTitle": "Conducting the Structured Interview",
+    "body": "<p>Let's look at the process of running the structured interview.</p>",
+    "_id": "5f9b35002cf86403009daa20",
+    "_parentId": "5f9094782cf86403009da94c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each tab to learn more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Preparing to Conduct the Interview",
+        "body": "<p>Prior to the interview, hiring panel members should review the candidate’s application, resume, and questionnaire responses in JazzHR (or receive them from an Administrative Assistant). Hiring panel members should also discuss interview logistics and roles and ensure familiarity with the questions and rating scales.</p><p>The <strong>Standardized Hiring Process Guide</strong>, available in the <strong>Resources</strong> area on the main course menu, provides information about how to access the questions and rating scales in Teams.</p><p>On average, the hiring panel is expected to allocate around 1 hour and 10 minutes for each interview candidate. This timeframe includes approximately 50 minutes for conducting the interview itself, with the remaining 20 minutes designated for rating the candidate's performance and engaging in a discussion about their qualifications.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Joining the Interview",
+        "body": "<p>For virtual interviews via Teams, hiring panel members will receive a meeting invitation from an Administrative Assistant. Depending on their preferred arrangements, an individual hiring panel member may either join the meeting already in progress or join other hiring panel members in a separate meeting, and then the candidate will be moved to the meeting.&nbsp;</p><p>For details about joining the meeting, please refer to the<strong> Standardized Hiring Process Guide</strong>, available in the <strong>Resources</strong> area on the main course menu.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Opening",
+        "body": "<p>Hiring panel members should open the interview by welcoming and thanking the candidate, facilitating introductions of the panel members, providing an overview of the interview process for the candidate, and providing preliminary information about the job and the agency.</p><p>For in-person interviews, candidates will have a paper copy of the interview questions. For virtual interviews, someone will need to share the questions with the candidate by opening the proper file and sharing their screen.</p><p>The <strong>Standardized Hiring Process Guide</strong>, available in the <strong>Resources </strong>area on the main course menu, includes information about the opening and about how to share the interview questions with the candidate.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Rated Interview Questions",
+        "body": "<p>Hiring panel members should then explain the types of questions and what kinds of responses are suitable, ask structured questions using probing or follow-up questions as needed, and take notes on the candidate’s responses. The instructor-led training will include in-depth discussion and practice for this part of the interview.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Closing",
+        "body": "<p>After the standardized questions have been asked, the hiring panel should share any remaining important job information that was not covered at the beginning of the interview. If there is any additional information that needs to be collected from the candidate (e.g., for the purpose of contacting references), it can be requested at this time, though additional forms or questionnaires should not be used. The hiring panel should also inquire about the candidate’s continued interest in the position, describe the next steps in the process, and answer any remaining questions from the candidate.</p><p>For an in-person interview, as the candidate is thanked and escorted out of the room, their interview questions should be collected from them.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "After the Interview",
+    "displayTitle": "After the Interview",
+    "body": "<p>Let’s look at steps that need to be completed after the structured interview.</p>",
+    "_id": "5f9b3bd02cf86403009daa29",
+    "_parentId": "5f9b3b402cf86403009daa28",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each tab to learn more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Rating",
+        "body": "<p>After the candidate has left, hiring panel members should use their notes and the rubrics for each question to independently rate each interview question and the writing assessment. See the Standardized Hiring Process Guide for detailed information about how to access the CWS I-II Interview and Writing Assessment Rating Guide, which contains the scoring rubrics. For further instructions on how to review the writing assessments and enter ratings online, also refer to the Guide.</p><p>The instructor-led training will include in-depth discussion and practice for this part of the process.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Calculating the Candidate’s Score",
+        "body": "<p>When all ratings have been entered for a candidate, their total score across all competencies will automatically be calculated and available to view.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Hiring Recommendations or Decisions",
+        "body": "<p>The lowest possible total score is -80 and the maximum possible total score is 80. Hiring panels and selecting officials are encouraged to use the total candidate score as a decision guide, while factoring in scores on individual competencies. Generally speaking, higher total scores are, on average, associated with better performance. More specifically, candidates who score higher than 56 are almost 6 times as likely to have higher-than-average job performance than those who score below 56. &nbsp;</p><p>It’s important to understand that this result is on average, across candidates. A score is not a perfect predictor for any one candidate. Some high scorers may not ultimately have higher performance, and some low scorers may have had or may have higher performance. Just like when it comes to assessing children and families, no assessment is going to perfectly predict what a person will do or how things will go in the future. We use our assessments to make predictions based on what we know is likely to be true across people. For this reason and others, there will be no strict cutoff scores that must be followed. Hiring panels are encouraged to use the total score as a decision guide, leaving room for other factors and circumstances to be taken into account as needed.</p><p>One potential issue is concerning responses (e.g., red flag interview answers) or results (e.g., an average rating of 1 for writing quality) that are disguised by the total score (due to high ratings on other competencies). In those cases, the total score may not reflect important nuances that should be considered. So although candidates can and should be broadly compared on total scores, it is important to not overlook finer distinctions that may affect the candidate’s performance potential. In addition, the candidate’s ability to meet core job requirements (e.g., related to work travel, being on call, attending training, possessing a valid driver’s license, or passing a criminal background check or pre-employment drug screening) should be factored into hiring decisions. Though the total score is very informative, it is only part of the picture when making a hiring decision.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Overview",
+    "displayTitle": "Overview",
+    "body": "<p>Since we are all human, it is common for interviewers to make subconscious errors when assessing interviewees’ performance. These rating errors are reflective of our subconscious biases toward the interviewees. These biases can give an interviewee an unfair advantage or disadvantage over others in their peer group.</p><p>Here are eight common rating errors and biases that we all could make when assessing the performance of an interviewee. Being aware of these rating errors can help us avoid these mistakes.</p>",
+    "_id": "5f9c6f822cf86403009daa4f",
+    "_parentId": "5f971e292cf86403009da994",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Conceptual announcement text caption inspiration showing Bias",
+      "large": "course/en/assets/945527e88b07e2bd82ca9a51c2dda4de047c04b6.jpg",
+      "small": "course/en/assets/945527e88b07e2bd82ca9a51c2dda4de047c04b6.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Overview",
+    "displayTitle": "Overview",
+    "body": "<p>Welcome to the Standardized Hiring Process online course!</p><p>This course provides information on developing and implementing a new standardized hiring process for Child Welfare Specialist (CWS) I and II positions at the Oklahoma Human Services (OKDHS). It further addresses how this new process was initiated and how to accomplish each step. Finally, it introduces the most common rating errors and biases, as well as strategies for overcoming them.</p>",
+    "_id": "5f9c7dea2cf86403009daa62",
+    "_parentId": "5f5139c9194f6802f3d8a4fa",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Process concept formed by gear and lines",
+      "large": "course/en/assets/73044e8aec9afb14bd8986522777a7e4c49e9154.jpg",
+      "small": "course/en/assets/73044e8aec9afb14bd8986522777a7e4c49e9154.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Learning Goals",
+    "displayTitle": "Learning Goals",
+    "body": "<p>By the end of this course, you will be able to do the following:</p><ul><li>Identify hiring issues and understand why a standardized hiring process is being implemented at OKDHS</li><li>Explain what a competency-based selection system is and how it was developed and evaluated at OKDHS</li><li>Explain the key findings about the benefits of the process</li><li>Follow the correct steps from the new standardized hiring process for Child Welfare Specialists I and II positions</li><li>Recognize common rating errors and biases and apply strategies to overcome them</li></ul>",
+    "_id": "5f9c856b2cf86403009daa69",
+    "_parentId": "5f579404194f6802f3d8a59f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic-accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Development of the Hiring Process",
+    "displayTitle": "Development of the Hiring Process",
+    "body": "<p>Now let’s take a look at the development of the hiring process.</p>",
+    "_id": "5f9c8a5d2cf86403009daa7a",
+    "_parentId": "5f9c8a5d2cf86403009daa77",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each tab to learn more.",
+    "defaultAlt": "",
+    "defaultSrc": "",
+    "_items": [
+      {
+        "title": "Building a Competency-Based Selection Process",
+        "body": "<p>The first step in developing the new hiring process was to identify the critical competencies that a Child Welfare Specialist I and II needs at the time of hire. Competencies are the knowledge, skills, abilities, behaviors, and other characteristics that an individual needs to perform work roles or occupational functions successfully. Employees can acquire competencies at various stages of the employee lifecycle, including pre-hire, during training, or on the job. The goal for competency-based selection is to assess individual differences related to job competencies that can’t or won’t be trained or learned on the job.</p>",
+        "_graphic": {
+          "alt": "Businessman shows the word competence",
+          "src": "course/en/assets/cb821512be0447b650465f37f711d2cf16bb467b.jpg"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Identifying Targeted Competencies",
+        "body": "<p>Extensive interviews and surveys were conducted with Child Welfare Supervisors and experienced Specialists to arrive at a final set of the most important competencies to target through the hiring process. Several measures, interview questions, and rating tools were selected or developed to assess the core competencies.</p>",
+        "_graphic": {
+          "alt": "Competencies list with clipboard on a table",
+          "src": "course/en/assets/235437643d87c44da562f2ab532c02c9d714b49b.jpg"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Implementing a Randomized Control Trial",
+        "body": "<p>To rigorously evaluate the effectiveness of these various selection tools, a randomized control trial was employed. Half of the districts were assigned to implement the new process, and the other half continued to follow business-as-usual approaches for hiring new Child Welfare Specialists. Candidate scores were collected and, for those that were hired, information was later collected about their reactions to the hiring process, their job attitudes, performance, and whether they stayed or left the job.</p>",
+        "_graphic": {
+          "alt": "red unique figure and crowd",
+          "src": "course/en/assets/3cb73bf8e359f33ece321eac89e937eba67aa7cb.jpg"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Improving Hiring Outcomes: Key Findings on Turnover, Performance, and Candidate Satisfaction",
+        "body": "<p>The most noteworthy evaluation findings showed that:</p><ol><li>Turnover was lower among people who were hired through the new process. Specifically, it lowered the&nbsp;<em>risk of leaving&nbsp;</em>by 24%.&nbsp;</li><li>Higher scores are associated with better job performance, as measured by supervisor judgments.</li><li>People hired with the new process were more likely to report that they received valuable information prior to the interview, that the process was fair and gave them opportunities to show their qualifications and capabilities for the job, that the agency was concerned about hiring the most qualified candidates, and that they were satisfied overall with how the hiring process was conducted.&nbsp;</li></ol>",
+        "_graphic": {
+          "alt": "White jigsaw puzzle with a written word outcomes on a red background",
+          "src": "course/en/assets/28b41347d1e02063163952e63d03ef8d79bcc1ff.jpg"
+        },
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_component": "gotomenu",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fa03f8e2cf86403009daa9d",
+    "_parentId": "5fa03de72cf86403009daa9c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Return to Course Menu",
+    "menuID": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Sara's Story",
+    "displayTitle": "Sara's Story",
+    "body": "<p>Sara was selected as an interview candidate for a Child Welfare Specialist I/II position. To prepare for the interview, she found a list of commonly asked interview questions online and rehearsed them well. However, during the interview, many of the questions were not asked. Her preparation work had focused on the wrong stuff, which made her feel frustrated and put on the spot. Not surprisingly, she gave up halfway through the interview and didn’t get the job.</p><p>&nbsp;</p>",
+    "_id": "5fa094532cf86403009daaa8",
+    "_parentId": "5fa094532cf86403009daaa6",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5fa094532cf86403009daaa9",
+    "_parentId": "5fa094532cf86403009daaa6",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 2",
+    "displayTitle": "Question 2",
+    "body": "<p>Recall what you’ve learned, on average, how long does it take the <strong>hiring panel</strong> to complete the whole interview process?</p>",
+    "_id": "5fa5a0d42cf86403009dab0a",
+    "_parentId": "5fa5a0d32cf86403009dab09",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Choose the best answer, then click Submit.",
+    "_items": [
+      {
+        "text": "1 hour",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "1 hour and 10 minutes",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "1 hour and 30 minutes",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "2 hours",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "Feedback",
+      "correct": "<p>Correct!</p><p>On average, the hiring panel will need to spend approximately 1 hour and 10 minutes on each interview candidate. 50 minutes will be used for the interview, while the other 20 minutes are planned for rating and discussion.</p>",
+      "_incorrect": {
+        "final": "<p>You may want to reconsider your answer.</p><p>On average, the hiring panel will need to spend approximately 1 hour and 10 minutes on each interview candidate. 50 minutes will be used for the interview, while the other 20 minutes are planned for rating and discussion.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Challenges at OKDHS",
+    "displayTitle": "Challenges at OKDHS",
+    "body": "<p>A steering committee, composed of representatives from Child Welfare Services and its partners, was convened to provide guidance for the work. An examination of hiring practices across the state showed that there were over 250 different interview questions in use or available for use. Some offices assessed candidates’ typing or writing skills, and some had other questionnaires or forms to gather candidate information. All of these variations resulted in inconsistent processes across the agency. Though some interview questions were good and followed best practices, many were not optimal for identifying candidate potential, and some even posed legal risks. Candidates’ responses were often rated, but there was no guidance regarding appropriate ratings for different responses. Finally, there was no information available on the extent to which the hiring process led to effective hiring decisions.</p>",
+    "_id": "646cf682e372d303526590a1",
+    "_parentId": "5f579abb194f6802f3d8a5a6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Conclusion",
+    "displayTitle": "Conclusion",
+    "body": "<p>In this module, you gained insights into the hiring challenges faced by OKDHS. You also explored the concept of a competency-based selection system and its tailored design for implementation at OKDHS.</p><p>In the next module, you will learn about the specific steps of the new standardized hiring process and its related details.</p><p>&nbsp;</p>",
+    "_id": "646d1bb9e372d303526590a4",
+    "_parentId": "646d1bb9e372d303526590a3",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "646d1bb9e372d303526590a5",
+    "_parentId": "646d1bb9e372d303526590a3",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Sticky notes pinned on board with words lessons learned written on",
+      "large": "course/en/assets/63c32b2ab350ca2525548940f5317eb5f43d4e30.jpg",
+      "small": "course/en/assets/63c32b2ab350ca2525548940f5317eb5f43d4e30.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "gotomenu",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Return to Course Menu",
+    "displayTitle": "",
+    "body": "",
+    "_id": "646d1bc9e372d303526590aa",
+    "_parentId": "646d1bc9e372d303526590a9",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Return to Course Menu",
+    "menuID": ""
+  },
+  {
+    "_component": "gotopage",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Go to Page",
+    "displayTitle": "",
+    "body": "",
+    "_id": "646d1bc9e372d303526590ab",
+    "_parentId": "646d1bc9e372d303526590a9",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "button": "Continue to Module 2",
+    "pageID": "5f8f504a2cf86403009da919",
+    "dialogTitle": "Page Incomplete",
+    "dialogBody": "<p>There are items on this page that must be completed before you can continue.</p>",
+    "incompleteButton": "Go To Incomplete",
+    "viewAllButton": "View All"
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Key Features",
+    "displayTitle": "Key Features",
+    "body": "<p>Let’s take a look at the key features of the Standardized Hiring Process.</p>",
+    "_id": "646d1e0ee372d303526590af",
+    "_parentId": "646d1e05e372d303526590ad",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each tab to learn more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Consistent Communication with Candidates",
+        "body": "<p>The process includes clear and consistent communication with candidates before they arrive, ensuring that they understand what to expect during the selection process. This helps manage expectations and provides transparency, which is crucial for ensuring the hiring process stays fair and inclusive.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Standard Processes and Questions",
+        "body": "<p>The process is highly structured, following a well-defined approach with predefined procedures and a set of standardized questions, while also allowing for flexibility in certain areas. This combination of structure and flexibility enables a fair comparison of candidates and ensures that all relevant aspects are thoroughly evaluated.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Detailed Rating Scales with Behavior Descriptions",
+        "body": "<p>The process incorporates detailed rating scales that outline specific behaviors and performance criteria. These scales serve as valuable tools for interviewers to evaluate candidates in an objective and consistent manner. By aligning their assessments with the behavior descriptions provided in the scales, interviewers can effectively mitigate personal biases and maintain a focus on impartial and objective evaluations.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Training for Everyone Involved",
+        "body": "<p>All interviewers participating in the selection process receive training on how to conduct the process effectively and utilize standardized tools and techniques. This training process promotes shared understanding and ensures that all interviewers follow the same guidelines and principles, leading to greater consistency and fairness.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reduction of Biases",
+        "body": "<p>By implementing a structured process with clear guidelines and standardized tools, the influence of biases is limited. The process helps mitigate the impact of subjective judgments and personal preferences, leading to a more equitable evaluation of candidates.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Time for Deliberation and Informed Decisions",
+        "body": "<p>The process allows for adequate time for deliberation and informed decision-making, enabling interviewers to thoroughly review all relevant information, such as candidates' responses and performance ratings, before making their final decisions. This deliberate approach acts as a check and balance in thinking, fostering more thoughtful, well-informed, and deliberate selections.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Learning Module Features",
+    "displayTitle": "Learning Module Features",
+    "body": "<p>Before we begin, let's explore some functions of the Learning Modules.</p>",
+    "_id": "6478e2c7e372d30352659109",
+    "_parentId": "5f9c88c62cf86403009daa6f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    },
+    "instruction": "Select each tab to learn more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Order of Modules",
+        "body": "<p>Complete all the modules in the order they are presented. As you complete one module, the next one will become available.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Activity Completion",
+        "body": "<p>Throughout these Learning Modules, you will be asked to complete activities, such as answering questions or clicking features. These activities are required to be completed and are marked with a <strong>Required</strong> indicator. The indicator will change to <strong>Complete</strong> when the activity is finished.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Progress",
+        "body": "<p>You can track your progress in each module, including content you have and have not completed, by clicking the progress bar on the top right side of this screen.</p><p>You will be prevented from moving to the next module if there is an interaction in the current module that is not yet complete.</p>",
+        "_graphic": {
+          "alt": "a red arrow pointing where the progress bar located in the course",
+          "src": "course/en/assets/71f69a4c2b72baf3cab0c8614a48bd01add45b3a.png",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Course Completion",
+        "body": "<p>You do not have to complete all the learning modules in one sitting. They are designed to save your place as you move through them.</p><p>This feature will not work, and your completion progress will not be saved if you close the main Learning Management System (LMS) window on your browser while the Learning Modules window remains open. Please leave both windows open as you take this course.</p><p>If you need to stop before you are finished, close this window first to save your progress.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Resource",
+        "body": "<p>In this course, you will occasionally be instructed to review a document as part of the learning material. You can access the document by clicking the Resource icon on the upper-right side of the screen.</p>",
+        "_graphic": {
+          "alt": "a red arrow pointing where the resource icon located in the course",
+          "src": "course/en/assets/2c2cb158141d3fdd2aaa3fc1f1baba5772237d2c.png",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  }
+]

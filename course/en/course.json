@@ -1,0 +1,256 @@
+{
+  "title": "Standardized Hiring Process",
+  "displayTitle": "Standardized Hiring Process",
+  "body": "",
+  "description": "",
+  "_htmlClassName": "",
+  "_latestTrackingId": 35,
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "My answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "attempts remaining",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_classes": "",
+  "_lockType": "",
+  "_id": "course",
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_globals": {
+    "_accessibility": {
+      "skipNavigationText": "Skip navigation",
+      "_ariaLabels": {
+        "answeredIncorrectly": "You answered incorrectly",
+        "answeredCorrectly": "You answered correctly",
+        "selectedAnswer": "selected",
+        "unselectedAnswer": "not selected",
+        "skipNavigation": "Skip Navigation",
+        "previous": "Back",
+        "navigationDrawer": "Open course resources.",
+        "close": "Close",
+        "closeDrawer": "Close Drawer",
+        "closeResources": "Close resources",
+        "drawer": "Top of side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Completed",
+        "incomplete": "Incomplete",
+        "incorrect": "Incorrect",
+        "correct": "Correct",
+        "locked": "Locked",
+        "visited": "Visited"
+      }
+    },
+    "_components": {
+      "_card": {
+        "ariaRegion": ""
+      },
+      "_accordion": {
+        "ariaRegion": "Accordion. Select each button to expand the content."
+      },
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_carousel": {
+        "ariaRegion": "This component is a sequence of panels comprised of graphics associated with content panels containing display text. Select the next slide to move through the sequence of panels."
+      },
+      "_gmcq": {
+        "ariaRegion": "Multiple choice question. Select your option and then submit."
+      },
+      "_hotgraphic": {
+        "ariaRegion": "Image with selectable areas. Select each button to show more information.",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_media": {
+        "ariaRegion": "Media player{{#any _transcript._inlineTranscript _transcript._externalTranscript}} and transcript{{/any}}.",
+        "skipToTranscript": "Skip to transcript"
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
+      },
+      "_narrative": {
+        "ariaRegion": "Slide show. Select the next button to progress."
+      },
+      "_mcq": {
+        "ariaRegion": "Multiple choice question. Select your option and then submit."
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_demo": {
+        "ariaRegion": ""
+      },
+      "_gotomenu": {
+        "ariaRegion": ""
+      },
+      "_gotopage": {
+        "ariaRegion": ""
+      },
+      "_graphic-accordion": {
+        "ariaRegion": "This component is an accordion comprised of graphics associated with collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels and the corresponding image."
+      },
+      "_lottie": {
+        "ariaRegion": ""
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit."
+      },
+      "_dnd": {
+        "ariaRegion": "This question component requires you to drag and drop items from one list to another. You may tab to an item to be dragged, select it with Enter or Space, then use the arrow keys to move it. Press Enter or Space again to stop dragging."
+      },
+      "_panels": {
+        "ariaRegion": "This component is a sequence of panels comprised of graphics associated with content panels containing display text. Select the next slide to move through the sequence of panels."
+      },
+      "_reveal": {
+        "ariaRegion": "This component is a sequence of panels comprised of graphics associated with content panels containing display text. Select the next slide to move through the sequence of panels."
+      },
+      "_qcard": {
+        "ariaRegion": ""
+      },
+      "_orderItems": {
+        "ariaRegion": "This is a list of items to be ordered. You can select an item by tabbing to it, then pressing Enter or Space. The arrow keys will allow you to move the item in the list. Press enter or space again to place."
+      },
+      "_tabs": {
+        "ariaRegion": "This component is an tab control comprised of a list of tabs and corresponding content panels containing display text. Select the tabs to view the text of these content panels."
+      },
+      "_thinkingmcq": {
+        "ariaRegion": ""
+      },
+      "_thinking-question": {
+        "ariaRegion": ""
+      },
+      "_form-detail": {
+        "ariaRegion": ""
+      },
+      "_scene": {
+        "ariaRegion": "This component is a sequence of panels comprised of graphics associated with content panels containing display text. Select the next slide to move through the sequence of panels."
+      },
+      "_stacks": {
+        "ariaRegion": "This component is a sequence of panels comprised of graphics associated with content panels containing display text. Select the next slide to move through the sequence of panels."
+      },
+      "_youtube": {
+        "ariaRegion": "Media component which displays a YouTube video. Select the play / pause button to watch it.",
+        "skipToTranscript": "Skip to transcript"
+      },
+      "_vimeo": {
+        "ariaRegion": "This is a media component which displays a Vimeo video. Select the play / pause button to watch it.",
+        "skipToTranscript ": "Skip to transcript"
+      }
+    },
+    "_extensions": {
+      "_resources": {
+        "resources": "Additional resources."
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Page progress. Use this to listen to the list of regions in this topic and whether they're completed. You can jump directly to any that are incomplete or which sound particularly interesting. {{percentageComplete}}%",
+        "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional content"
+      }
+    }
+  },
+  "_type": "course",
+  "themeVariables": {
+    "_colors": {
+      "primary-color": "#505789",
+      "primary-color-inverted": "#ffffff",
+      "accent-color": "#ffb860",
+      "accent-color-inverted": "#333333",
+      "secondary-color": "#293462",
+      "secondary-color-inverted": "#ffffff",
+      "tertiary-color": "#293462",
+      "tertiary-color-inverted": "#ffffff",
+      "quaternary-color": "#f1f1e6",
+      "quaternary-color-inverted": "#333333",
+      "foreground-color": "#333333",
+      "background-color": "#ffffff",
+      "foreground-color-inverted": "#000000",
+      "background-color-inverted": "#a9aabc",
+      "validation-error": "#94333e",
+      "validation-success": "#007758",
+      "disabled-color": "#454655",
+      "disabled-color-inverted": "#a9aabc"
+    }
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "page",
+    "_showPrompt": true,
+    "title": "Bookmarking",
+    "body": "Would you like to continue where you left off?",
+    "_buttons": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "title": "Resources",
+    "description": "Click here to view resources for this course",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Documents",
+      "media": "Media",
+      "link": "Links"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": "OKDHS CWS Standardized Hiring Process Guide",
+        "filename": "OKDHS CWS Standardized Hiring Process Guide",
+        "description": "",
+        "_link": "course/en/assets/6b9012326e4a8bdecf306dee1497a54273584309.pdf"
+      }
+    ]
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": true,
+    "_isShownInNavigationBar": true
+  },
+  "_courseComplete": {
+    "_isEnabled": true,
+    "icon": "thumb",
+    "title": "Course Complete!",
+    "message": ""
+  }
+}

@@ -1,0 +1,131 @@
+[
+  {
+    "title": "Module 1: Project Introduction",
+    "displayTitle": "Module 1: Project Introduction",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClassName": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f5139c8194f6802f3d8a4f8",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "Process concept formed by gear and lines",
+      "src": "course/en/assets/2aa4f838f86baf6c93813eb3a1343eb647544e60.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_courseComplete": {
+      "_showPageBanner": true
+    }
+  },
+  {
+    "title": "Module 2: The New Standardized Hiring Process",
+    "displayTitle": "Module 2: The New Standardized Hiring Process",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClassName": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f8f504a2cf86403009da919",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Smiling female interviewee",
+      "src": "course/en/assets/3a5de7fdfc3393af9d6039ee6cc9f07ccae4b07e.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_courseComplete": {
+      "_showPageBanner": true
+    }
+  },
+  {
+    "title": "Module 3: Common Rating Errors and Biases",
+    "displayTitle": "Module 3: Common Rating Errors and Biases",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClassName": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f971e292cf86403009da992",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "Texts bias on brick wall",
+      "src": "course/en/assets/e8a195f21be52e9cb26535bef20ff07ac7e675d1.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_courseComplete": {
+      "_showPageBanner": true
+    }
+  }
+]

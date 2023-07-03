@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 140">
+    <defs>
+        <linearGradient id="darken-1" gradientTransform="rotate(65)">
+            <stop offset="0%" stop-color="black" stop-opacity="0.01"/>
+            <stop offset="100%" stop-color="black" stop-opacity="0.2"/>
+        </linearGradient>
+        <linearGradient id="darken-2" gradientTransform="rotate(45)">
+            <stop offset="0%" stop-color="black" stop-opacity="0.4"/>
+            <stop offset="100%" stop-color="black" stop-opacity="0.1"/>
+        </linearGradient>
+        <linearGradient id="accent-1">
+            <stop offset="0%" stop-color="#fff" stop-opacity="0.3"/>
+            <stop offset="30%" stop-color="#fff" stop-opacity="0"/>
+            <stop offset="50%" stop-color="black" stop-opacity="0.05"/>
+            <stop offset="70%" stop-color="#fff" stop-opacity="0"/>
+            <stop offset="100%" stop-color="black" stop-opacity="0.3"/>
+        </linearGradient>
+        <linearGradient id="lighten-1" gradientTransform="rotate(45)">
+            <stop offset="0%" stop-color="#fff" stop-opacity="0.5"/>
+            <stop offset="100%" stop-color="#fff" stop-opacity="0.9"/>
+        </linearGradient>
+        <filter xmlns="http://www.w3.org/2000/svg" id="shadow" height="130%">
+            <feGaussianBlur in="SourceAlpha" stdDeviation="3"/>
+            <feOffset dx="2" dy="2" result="offsetblur"/>
+            <feComponentTransfer>
+                <feFuncA type="linear" slope="0.2"/>
+            </feComponentTransfer>
+            <feMerge>
+                <feMergeNode/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <path fill="#fff" d="M0 15.5V140h539.5V9.6C409.5 195.3 191-63.6 0 15.5z" filter="url(#shadow)"/>
+    <path fill="url(#darken-1)" d="M0 15.5V140h539.5V9.6C409.5 195.3 191-63.6 0 15.5z"/>
+    <path d="M0 140V29.3c185-72.1 418 142.3 540 3V140z" filter="url(#shadow)"/>
+    <path fill="url(#darken-2)" d="M0 140V29.3c185-72.1 418 142.3 540 3V140z"/>
+    <path fill="currentColor" d="M0 131.1V60c268-125.6 345 106.7 540-3v64.2C294 140 195-68.5 0 131.2z" filter="url(#shadow)"/>
+    <path fill="url(#accent-1)" d="M0 131.1V60c268-125.6 345 106.7 540-3v64.2C294 140 195-68.5 0 131.2z"/>
+    <path fill="currentColor" d="M0 103.4V56c143.5-109.7 456.5 121.6 540-6v46.5c-133.5 87-335.5-157.1-540 7z"  filter="url(#shadow)"/>
+    <path fill="url(#lighten-1)" d="M0 103.4V56c143.5-109.7 456.5 121.6 540-6v46.5c-133.5 87-335.5-157.1-540 7z"/>
+</svg>
